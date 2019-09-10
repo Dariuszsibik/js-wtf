@@ -1,25 +1,22 @@
-/* boolean math */
+// console.log(true + false);
+// console.log( true + true === 2);
+// console.log( true- true === 0);
+// console.log( true === 1);
 
-true + false
-1
+// console.log((undefined || true) && null);
 
-true + true == true
-// false
+// console.log(false == 0)
 
-[] == ![];     // true
+// console.log(null == undefined)
 
-[]+[] // ""
-[]+{} // "[object Object]"
-{}+[] // 0
-{}+{} // NaN
+// console.log([]+[]);
 
-![]
-!![]
-[][[]];
-+[![]]
+// console.log(Infinity + undefined)
 
-const this_value = () => {
-    console.log(this);
-}
+// console.log(1 == "1");
+// console.log(1 == [1]);
+// console.log("1" == [1]);
 
-1 << 32
+// console.log(NaN == NaN);
+
+// console.log("string" instanceof String, typeof "string");

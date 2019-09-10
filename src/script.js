@@ -1,9 +1,18 @@
-// /* setTimeOut 10*/
+// /* setTimeOut */
 // import {SetTimeout} from './js/setTimeOut';
 
-// /* zmienne  */
-// import {Variables} from './js/variables';
+/* Number */
+// import { number } from './js/number.js'
 
-/* Promise */
-import {promise} from './js/promise.js';
+// /* strings  */
+// import {strings} from './js/strings';
+
+/* Arrays */
+// import { arrays } from './js/arrays.js'
+
+/* Boolean */
+// import { boolean } from './js/boolean.js'
+
+/* Engine */
+// import { engine } from './js/engine.js'
 
